@@ -1,0 +1,102 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px){
+
+}
+/* LG Device :992px. */
+@media (min-width:992px) and (max-width:1200px){
+.main-menu ul li {
+    margin-left: 26px;
+}
+.footer-content form button {
+    padding: 15px;
+    font-size: 16px;
+    left: 141px;
+}
+.img {
+	position: absolute;
+	left: -81px;
+	top: 20px;
+}
+.img img {
+	width: 50%;
+}
+.single-slider {
+	 padding-top: 0px;
+}
+.video img {
+	width: 102%;
+}
+.copy-menu ul li {
+	padding: 4px;
+}
+}
+/* MD Device :768px. */
+@media (min-width:768px) and (max-width:991px){
+
+.menu-contetn {
+	padding-top: 35px;
+}
+.menu-contetn ul li {
+	padding: 7px;
+}
+.hire-btn {
+
+	margin-top: 30px;
+
+}
+.copy-menu ul li {
+	display: inline;
+	padding: 4px;
+}
+.deperment-content {
+	left: 130px;
+	bottom: 243px;
+}
+.deperment-content h3 {
+	font-size: 55px;
+}
+.chairmain-content {
+	margin-top: 77%;
+}
+.single-slider {
+	padding-top: 43px;
+}
+.section-title {
+	padding: 0px 75px;
+}
+}
+/* Extrea Device :992px. */
+@media (max-width:767px) {
+    
+.mobile-menu.mean-container {
+    margin-top: -40px;
+}
+.single-slider {
+    padding-top: 0px; 
+}
+.section-title {
+	padding: 0;
+}
+.chairmain-content {
+	margin-top: 105%;
+}
+.counter-wrapp {
+	display: inline-block;
+	padding: 0;
+}
+.footer-content form button {
+	padding: 17px;
+	font-size: 14px;
+	left: 141px;
+
+}
+.copy-menu ul li {
+	display: inline;
+	padding: 10px;
+}
+
+}
+/* Sm Device :992px. */
+@media only screen and (min-width:576px) and (max-width:767px){
+    
+}
